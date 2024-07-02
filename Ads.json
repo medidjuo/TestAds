@@ -1,18 +1,18 @@
 {
-         "our_ads1_activation":"false",
-    "our_ads1_image_url":"https://raw.githubusercontent.com/TestGta/Test/main/1.png",
+         "our_ads1_activation":"true",
+    "our_ads1_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/main/EscapeDaddyAd1.png",
     "our_ads1_link_url":"https://play.google.com/store/apps/details?id=com",
 
-    "our_ads2_activation":"false",
-    "our_ads2_image_url":"https://raw.githubusercontent.com/TestGta/Test/main/2.png",
+    "our_ads2_activation":"true",
+    "our_ads2_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/main/EscapeDaddyAd2.png",
     "our_ads2_link_url":"https://play.google.com/store/apps/details?id=com",
 
-    "our_ads3_activation":"false",
-    "our_ads3_image_url":"https://raw.githubusercontent.com/TestGta/Test/main/3.png",
+    "our_ads3_activation":"true",
+    "our_ads3_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/main/EscapeDaddyAd3.png",
     "our_ads3_link_url":"https://play.google.com/store/apps/details?id=com",
 
-    "our_ads_inter_activation":"false",
-    "our_ads_inter_image_url":"https://raw.githubusercontent.com/TestGta/Test/main/inter1.png",
+    "our_ads_inter_activation":"true",
+    "our_ads_inter_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/main/EscapeDaddyAd3.png",
     "our_ads_inter_link_url":"https://play.google.com/store/apps/details?id=com",
 
   "admob_app_id": "",
