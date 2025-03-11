@@ -1,26 +1,26 @@
 {
          "our_ads1_activation":"true",
-    "our_ads1_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/main/EscapeDaddyAd1.png",
-    "our_ads1_link_url":"https://play.google.com/store/apps/details?id=com",
+    "our_ads1_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/main/BarbyGranny-Ads.png",
+    "our_ads1_link_url":"https://apps.apple.com/us/app/scary-horror-granny-barby/id6504364933",
 
     "our_ads2_activation":"true",
-    "our_ads2_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/main/EscapeDaddyAd2.png",
-    "our_ads2_link_url":"https://play.google.com/store/apps/details?id=com",
+    "our_ads2_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/main/barby%20granny.png",
+    "our_ads2_link_url":"https://apps.apple.com/us/app/scary-horror-granny-barby/id6504364933",
 
     "our_ads3_activation":"true",
-    "our_ads3_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/main/EscapeDaddyAd3.png",
-    "our_ads3_link_url":"https://play.google.com/store/apps/details?id=com",
+    "our_ads3_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/refs/heads/main/GrannyPolice%20ads1.png",
+    "our_ads3_link_url":"https://apps.apple.com/us/app/scary-horror-granny-barby/id6504364933",
 
     "our_ads_inter_activation":"true",
-    "our_ads_inter_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/main/EscapeDaddyAd3.png",
-    "our_ads_inter_link_url":"https://play.google.com/store/apps/details?id=com",
+    "our_ads_inter_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/refs/heads/main/Sponge%20NativeAds.png",
+    "our_ads_inter_link_url":"https://apps.apple.com/us/app/scary-horror-granny-barby/id6504364933",
 
   "admob_app_id": "",
   "admob_banner": "",
   "admob_interstitial": "",
   "admob_rewarded_video": "",
 
-  "unity_app_id": "",
+  "unity_app_id": "5709170",
   "unity_banner": "Banner_Android",
   "unity_interstitial": "Interstitial_Android",
   "unity_rewarded_video": "Rewarded_Android",
